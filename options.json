@@ -20,7 +20,8 @@
 		"ifx": "imxfx",
 		"cfx": "colfx",
 		"mm": "metering",
-		"rot": "rotation"
+		"rot": "rotation",
+		"ss": "shutter"
 	},
 	"flags": {
 		"r": "raw",
@@ -33,5 +34,5 @@
 		"vs": "vstab",
 		"hf": "hflip",
 		"vf": "vflip"
-	}	
+	}
 }
