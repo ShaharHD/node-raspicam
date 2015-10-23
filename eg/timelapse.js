@@ -2,7 +2,9 @@ var RaspiCam = require("../lib/raspicam");
 
 
 var camera = new RaspiCam({
-	mode: "timelapse",
+	command: "timelapse",
+	width: 640,
+	height: 480,
 	output: "./timelapse/image_%06d.jpg", // image_000001.jpg, image_000002.jpg,...
 	encoding: "jpg",
 	timelapse: 3000, // take a picture every 3 seconds

@@ -15,6 +15,9 @@
 -e, --encoding	: Encoding to use for output file (jpg, bmp, gif, png)
 -x, --exif	: EXIF tag to apply to captures (format as 'key=value')
 -tl, --timelapse	: Timelapse mode. Takes a picture every <t>ms
+-ss, --shutter	: Set shutter speed
+-drc, --drc	: Enable/Disable Dynamic Range compression
+-md, --mode : Sets a specified sensor mode, disabling the automatic selection (0,1,2,3,4,5,6,7)
 
 
 ## Preview parameter commands
@@ -42,10 +45,3 @@
 -rot, --rotation	: Set image rotation (0-359)
 -hf, --hflip	: Set horizontal flip
 -vf, --vflip	: Set vertical flip
-
-
-
-
-
-
-

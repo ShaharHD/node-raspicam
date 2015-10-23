@@ -21,7 +21,9 @@
 		"cfx": "colfx",
 		"mm": "metering",
 		"rot": "rotation",
-		"ss": "shutter"
+		"ss": "shutter",
+		"drc": "drc",
+		"md": "mode"
 	},
 	"flags": {
 		"r": "raw",
