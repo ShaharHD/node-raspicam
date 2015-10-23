@@ -1,7 +1,7 @@
 {
   "name": "raspicam",
   "description": "A Node.js-based controller module for the Raspberry Pi camera based on a command structure similar to Johnny-Five",
-  "version": "0.2.16",
+  "version": "0.2.17",
   "homepage": "https://github.com/ShaharHD/node-raspicam",
   "author": {
     "name": "Shahar Hadas <shaharhd@gmail.com>",
